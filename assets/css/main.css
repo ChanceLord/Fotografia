@@ -32,8 +32,7 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background-image: url('/img/fotos/1.jpg');
-  
+background-image: url('https://i.pinimg.com/originals/b1/7c/e1/b17ce1674f43b558a55ddbb339c5fb97.jpg');  
   background-size: cover;
   background-attachment: fixed;
  
