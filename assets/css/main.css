@@ -32,7 +32,7 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background-image: url('/img/fondo.png');
+  background-image: url('/img/fotos/1.jpg');
   
   background-size: cover;
   background-attachment: fixed;
