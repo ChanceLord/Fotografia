@@ -656,11 +656,13 @@ h6 {
   margin-top: 80px;
 }
 
+
+
 .testimonials .testimonial-item {
   box-sizing: content-box;
   padding: 30px;
   margin: 40px 30px;
-  background: var(--color-secondary);
+  background: #161718;
   min-height: 320px;
   display: flex;
   flex-direction: column;
@@ -700,6 +702,7 @@ h6 {
 .testimonials .testimonial-item p {
   font-style: italic;
   margin: 0 auto 15px auto;
+
 }
 
 .testimonials .swiper-pagination {
@@ -866,6 +869,13 @@ h6 {
   }
 }
 
+.gallery-single .portfolio-info{
+  background: #000000d2;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 1%;
+}
+
 .gallery-single .portfolio-info h3 {
   font-size: 22px;
   font-weight: 700;
@@ -901,7 +911,7 @@ h6 {
 .gallery-single .portfolio-info ul strong {
   text-transform: uppercase;
   font-weight: 400;
-  color: #6b7075;
+  color: #fff;
   font-size: 14px;
 }
 
@@ -912,6 +922,11 @@ h6 {
   border-radius: 50px;
   transition: 0.3s;
 }
+
+.a-info{
+color: #fff;
+}
+
 
 .gallery-single .portfolio-info .btn-visit:hover {
   background: #2cbc85;
@@ -927,6 +942,7 @@ h6 {
 
 .gallery-single .portfolio-description p {
   padding: 0;
+  
 }
 
 .gallery-single .portfolio-description .testimonial-item {
@@ -940,7 +956,7 @@ h6 {
 .gallery-single .portfolio-description .testimonial-item .testimonial-img {
   width: 90px;
   border-radius: 50px;
-  border: 6px solid #2e3133;
+  border: 6px solid #2e313349;
   float: left;
   margin: 0 10px 0 0;
 }
@@ -983,6 +999,12 @@ h6 {
   font-style: italic;
   margin: 0 0 15px 0 0 0;
   padding: 0;
+}
+
+
+.portfolio-description p{
+  background: #161718;
+  
 }
 
 /*--------------------------------------------------------------
