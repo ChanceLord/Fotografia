@@ -621,10 +621,18 @@ h6 {
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+.about .content{
+  background: #161718;
+  padding: 20px;
+  
+}
+
 .about .content h2 {
   font-weight: 700;
   font-size: 24px;
-  color: var(--color-primary);
+  color: white;
+  background: #27a776;
+  padding: 10px;
 }
 
 .about .content ul {
