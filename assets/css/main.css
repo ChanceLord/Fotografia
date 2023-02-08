@@ -1331,7 +1331,14 @@ line-height: 50px;
 margin: 0px 0% 4px 0px;
 padding-left: 5px;
 display: flex;
+align-items: center;
 justify-content: center;
+flex-direction: column;
+ }
+
+ .block-link p{
+  font-size: 15px;
+  
  }
 
 /*--------------------------------------------------------------
