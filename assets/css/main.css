@@ -624,7 +624,7 @@ h6 {
 .about .content{
   background: #161718;
   padding: 20px;
-  
+overflow: hidden;
 }
 
 .about .content h2 {
